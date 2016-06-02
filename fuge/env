@@ -1,0 +1,13 @@
+PROXY_HOST=127.0.0.1
+INFLUX_HOST=influx
+SERIALIZER_HOST=serializer
+ACTUATOR_HOST=actuator
+BROKER_HOST=broker
+influx_PORT_8086=8086
+influx_PORT_8083=8083
+serializer_PORT=10000
+frontend_PORT=10001
+broker_PORT=10002
+sensor_PORT=10003
+actuator_PORT=10004
+
